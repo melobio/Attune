@@ -4,7 +4,7 @@ This repository contains code and tutorials for the following tasks: multimodal 
 In the first step, you will need to download datasets to run each notebook and reproduce the result. 
 The download links for datasets are shown in a folder named "data" in the following tasks directories.
 
-## Multimodal pretraining (Fig1 and )
+## Multimodal pretraining (Fig1 and Supplementary Fig2)
 - Notebook path: 10x_pretrain/run_integration.ipynb
 - [Readme for the pretraining tutorial](10x_pretrain/README.txt)
 - Description: 10X multiome dataset is used to pretrain Attune.
