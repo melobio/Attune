@@ -10,7 +10,7 @@ The download links for datasets are shown in a folder named "data" in the follow
 - Description: 10X multiome dataset is used to pretrain Attune.
 ## Cross-modal prediction (Fig1)
 - Notebook path: 10x_prediction/run_prediction.ipynb
-- [Readme for the prediction tutorial](prediction/README.txt)
+- [Readme for the prediction tutorial](10x_prediction/README.txt)
 - Description: We use 10X multiome dataset to pretrain Attune and then finetune Attune via a prediction model to predict RNA counts.
 ## Inferring regulatory network (Fig2b,c,d)
 - Notebook path: 10x_regulatory/run_regulatory.ipynb
