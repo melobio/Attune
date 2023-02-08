@@ -1,5 +1,14 @@
 # Attune
 This repository contains code and tutorials for the following tasks: multimodal pretraining, cross-modal prediction, inferring regulatory network and potential analysis.
+### Requirements:
+* tensorflow-gpu 2.5.0
+* torch 1.10.1
+* h5py 3.1.0
+* einops 0.4.1
+* scanpy 1.7.2
+* scipy 1.5.4
+* scikit-learn 0.24.2
+
 ## Getting started
 In the first step, you will need to download datasets to run each notebook and reproduce the result. 
 The download links for datasets are shown in a folder named "data" in the following tasks directories.
