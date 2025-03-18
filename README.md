@@ -34,3 +34,6 @@ The download links for datasets are shown in a folder named "data" in the follow
 - [Readme for the analysis of cell embeddings tutorial](greenleaf_pretrain/README.txt)
 - Description: Cell embeddings learned by Attune preserve biological signals in the high-dimensional space on fetal human cortex dataset.
 
+## License Statement
+The codebase is licensed under ​GPL-3.0, requiring derivative works to remain open-source, while all data files in /data and /results are released under ​CC0 1.0, waiving copyright and permitting unrestricted use (including commercial) without attribution.
+
