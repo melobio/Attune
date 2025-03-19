@@ -29,14 +29,15 @@ The download links for datasets are shown in a folder named "data" in the follow
 - Note book path: SHARE_TAC_potential/infer_potential.ipynb
 - [Readme for the potential analysis tutorial](SHARE_TAC_potential/README.txt)
 - Description: Attune reveals chromatin potential for hair follicle maturation at the gene level and illuminates the priming of lineage.
-## Analysis of cell embeddings (Fig5c and Supplementary Fig8a,b)
+## Analysis of cell embeddings (Fig5b,c and Supplementary Fig8a,b)
 - Note book path: greenleaf_pretrain/run_integration.ipynb
 - [Readme for the analysis of cell embeddings tutorial](greenleaf_pretrain/README.txt)
 - Description: Cell embeddings learned by Attune preserve biological signals in the high-dimensional space on fetal human cortex dataset.
 ## Data and manuscript figures
 |fig|script|data|data path|
 |---|------|----|----|
-|fig2<br>Supplementary fig2,9|10x_pretrain/run_integration.ipynb|ad_atac.h5ad<br>ad_rna.h5ad|https://doi.org/10.6084/m9.figshare.22032170.v1|
+|fig2<br>Supplementary fig2,9|10x_pretrain/run_integration.ipynb|ad_atac.h5ad(c60296d27e026b70c371a3b0e80a1fb2)<br>ad_rna.h5ad(c326a877c845b9582cf22e7f62206a78)|https://doi.org/10.6084/m9.figshare.22032170.v1|
+|fig2f|10x_prediction/run_prediction.ipynb|ad_atac.h5ad(c60296d27e026b70c371a3b0e80a1fb2)<br>ad_rna.h5ad(c326a877c845b9582cf22e7f62206a78)|https://doi.org/10.6084/m9.figshare.22032170.v1|
 
 
 ## License Statement
