@@ -13,7 +13,7 @@ This repository contains code and tutorials for the following tasks: multimodal 
 In the first step, you will need to download datasets to run each notebook and reproduce the result. 
 The download links for datasets are shown in a folder named "data" in the following tasks directories.
 
-## Multimodal pretraining (Fig2a,b and Supplementary Fig2)
+## Multimodal pretraining (Fig2a,b and Supplementary Fig2,9)
 - Notebook path: 10x_pretrain/run_integration.ipynb
 - [Readme for the pretraining tutorial](10x_pretrain/README.txt)
 - Description: 10X multiome dataset is used to pretrain Attune.
@@ -25,7 +25,7 @@ The download links for datasets are shown in a folder named "data" in the follow
 - Notebook path: 10x_regulatory/run_regulatory.ipynb
 - [Readme for the regulatory tutorial](10x_regulatory/README.txt)
 - Description: To infer regulatory interactions on 10X multiome dataset, we pretrain Attune and then finetune Attune via a transformer model. 
-## Potential analysis (Fig3g and Fig4a,c,d,e and Supplementary Fig6a)
+## Potential analysis (Fig3g and Fig4a,c,d,e and Supplementary Fig6a,7)
 - Note book path: SHARE_TAC_potential/infer_potential.ipynb
 - [Readme for the potential analysis tutorial](SHARE_TAC_potential/README.txt)
 - Description: Attune reveals chromatin potential for hair follicle maturation at the gene level and illuminates the priming of lineage.
@@ -33,6 +33,10 @@ The download links for datasets are shown in a folder named "data" in the follow
 - Note book path: greenleaf_pretrain/run_integration.ipynb
 - [Readme for the analysis of cell embeddings tutorial](greenleaf_pretrain/README.txt)
 - Description: Cell embeddings learned by Attune preserve biological signals in the high-dimensional space on fetal human cortex dataset.
+## Data and manuscript figures
+|fig|script|data|path|
+|---|------|----|----|
+|fig2a,b|10x_pretrain/run_integration.ipynb|10x multiome data|10x_pretrain/data|
 
 ## License Statement
 The codebase is licensed under ​GPL-3.0, requiring derivative works to remain open-source, while all data files in /data and /results are released under ​CC0 1.0, waiving copyright and permitting unrestricted use (including commercial) without attribution.
