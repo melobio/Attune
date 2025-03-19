@@ -33,7 +33,7 @@ The download links for datasets are shown in a folder named "data" in the follow
 - Note book path: greenleaf_pretrain/run_integration.ipynb
 - [Readme for the analysis of cell embeddings tutorial](greenleaf_pretrain/README.txt)
 - Description: Cell embeddings learned by Attune preserve biological signals in the high-dimensional space on fetal human cortex dataset.
-## Data and manuscript figures
+## Data and Manuscript Figures
 |fig|script|data(md5)|data path|
 |---|------|----|----|
 |Supplementary fig2,9|10x_pretrain/run_integration.ipynb|ad_atac.h5ad(c60296d27e026b70c371a3b0e80a1fb2)<br>ad_rna.h5ad(c326a877c845b9582cf22e7f62206a78)<br>weight_decoder_embedding_epoch12.h5(67ebe1a315a1ced46e4b8698a5dc6884)<br>weight_decoder_epoch12.h5(787fa8f66844d53a28a52307582a44e6)<br>weight_encoder_embedding_epoch12.h5(fe06e48aa4157b62e93440fba04c257c)<br>weight_encoder_epoch12.h5(28b1488543675c4ecda48bf6f877e7f0)|https://doi.org/10.6084/m9.figshare.22032170.v1<br>10x_pretrain/weight/pretrain/weight_decoder_embedding_epoch12.h5<br>10x_pretrain/weight/pretrain/weight_decoder_epoch12.h5<br>10x_pretrain/weight/pretrain/weight_encoder_embedding_epoch12.h5<br>10x_pretrain/weight/pretrain/weight_encoder_epoch12.h5|
