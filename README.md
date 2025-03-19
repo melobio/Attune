@@ -36,8 +36,9 @@ The download links for datasets are shown in a folder named "data" in the follow
 ## Data and manuscript figures
 |fig|script|data|data path|
 |---|------|----|----|
-|fig2<br>Supplementary fig2,9|10x_pretrain/run_integration.ipynb|ad_atac.h5ad(c60296d27e026b70c371a3b0e80a1fb2)<br>ad_rna.h5ad(c326a877c845b9582cf22e7f62206a78)|https://doi.org/10.6084/m9.figshare.22032170.v1|
-|fig2f|10x_prediction/run_prediction.ipynb|ad_atac.h5ad(c60296d27e026b70c371a3b0e80a1fb2)<br>ad_rna.h5ad(c326a877c845b9582cf22e7f62206a78)|https://doi.org/10.6084/m9.figshare.22032170.v1|
+|fig2a,b<br>Supplementary fig2,9|10x_pretrain/run_integration.ipynb|ad_atac.h5ad(c60296d27e026b70c371a3b0e80a1fb2)<br>ad_rna.h5ad(c326a877c845b9582cf22e7f62206a78)<br>weight_decoder_embedding_epoch12.h5(67ebe1a315a1ced46e4b8698a5dc6884)<br>weight_decoder_epoch12.h5(787fa8f66844d53a28a52307582a44e6)<br>weight_encoder_embedding_epoch12.h5(fe06e48aa4157b62e93440fba04c257c)<br>weight_encoder_epoch12.h5(28b1488543675c4ecda48bf6f877e7f0)|https://doi.org/10.6084/m9.figshare.22032170.v1<br>10x_pretrain/weight/pretrain/weight_decoder_embedding_epoch12.h5<br>10x_pretrain/weight/pretrain/weight_decoder_epoch12.h5<br>10x_pretrain/weight/pretrain/weight_encoder_embedding_epoch12.h5<br>10x_pretrain/weight/pretrain/weight_encoder_epoch12.h5|
+|fig2f|10x_prediction/run_prediction.ipynb|ad_atac.h5ad(c60296d27e026b70c371a3b0e80a1fb2)<br>ad_rna.h5ad(c326a877c845b9582cf22e7f62206a78)<br>weight_decoder_embedding_epoch7.h5(0231b735eef6f69dbf66a72c7235bc05)<br>weight_project_epoch7.h5(6645b08222266a6c75d27b8b0bd47a2b)|https://doi.org/10.6084/m9.figshare.22032170.v1<br>10x_prediction/weight/predict/weight_decoder_embedding_epoch7.h5<br>10x_prediction/weight/predict/weight_project_epoch7.h5|
+|fig3a,d,e,f<br>Supplementary fig4b|10x_regulatory/run_regulatory.ipynb|ad_atac.h5ad(c60296d27e026b70c371a3b0e80a1fb2)<br>ad_rna.h5ad(c326a877c845b9582cf22e7f62206a78)<br>weight_transformer_epoch10.h5(27c9085f062dab3db98a18e1f8ba003b)|https://doi.org/10.6084/m9.figshare.22032170.v1<br>10x_regulatory/weight/regulatory/weight_transformer_epoch10.h5|
 
 
 ## License Statement
